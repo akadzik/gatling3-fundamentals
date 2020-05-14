@@ -1,6 +1,6 @@
 Gatling 3 Fundamentals
 =========================
 
-Course code for the Gatling Fundamentals Udemy course - updated for Gatling v3
+Training: Source code for Gatling 3 Fundamentals course
 
 https://www.udemy.com/gatling-fundamentals
